@@ -43,7 +43,7 @@ This project is focused on detecting fraudulent job postings using machine learn
 - Evaluation : classification_report, f1-score, confusion matrix
 ---
 ## Preview of the result
-![Evaluation result](./Screenshot 2025-06-25 212254.png)
+![Evaluation result](./Screenshot_2025-06-25_212254.png)
 
 ---
 ## 🚀 How to Run
