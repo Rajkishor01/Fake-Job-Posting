@@ -42,7 +42,10 @@ This project is focused on detecting fraudulent job postings using machine learn
 - Classification through custom ANN
 - Evaluation : classification_report, f1-score, confusion matrix
 ---
+## Preview of the result
+![Evaluation result](./Screenshot 2025-06-25 212254.png)
 
+---
 ## 🚀 How to Run
 
 1. Clone the repository
